@@ -42,6 +42,6 @@
   # HoH all the way to Species!
   
 def naming_system
-  {"Kingdom"
   
-  [:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category]).to be_nil
+  
+ 
