@@ -60,12 +60,12 @@ def naming_system
 # 	              label: "Species",
 # PORTION_3 = {	              sub_category: nil
 #   label: "Family",	}
-#   sub_category: {	  }
-#     label: "Genus",	}
-#   }	            }
-# }	        }
-# 	    }
-# PORTION_4 = {	  }
+   sub_category: {	  }
+     "Genus",	}
+   }	            }
+ }	        }
+ 	    }
+	  }
    
 
 end
