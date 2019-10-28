@@ -44,7 +44,7 @@ def naming_system
   
  
  
-def naming_system => {
+def naming_system = {
   label: "Kingdom",
   sub_category: {
     label: "Phylum",
