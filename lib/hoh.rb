@@ -44,7 +44,8 @@ def naming_system
   
  
  
- label: "Kingdom",
+ multi_hash = { 
+    label: "Kingdom",
    sub_category: {
      
      label: "Phylum",
@@ -73,3 +74,5 @@ def naming_system
   }
 
 multi_hash
+
+end
