@@ -42,4 +42,4 @@
   # HoH all the way to Species!
   
 def naming_system
-  
+  {"Kingdom"
